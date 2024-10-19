@@ -72,8 +72,11 @@ Created a report for fraudulent transactions of some top customers of the firm u
 
 * Fraudulent transactions in the history of two of the most important customers of the firm on the basis of their cardholders' IDs are 18 and 2.
 
- ![id_holder_2](Images/id_holder_2.PNG)
- ![id_holder_18](Images/id_holder_18.PNG)
+
+ ![ID Holder 2](https://raw.githubusercontent.com/23MAC1R06/FDS/main/images/id_holder_2.PNG)
+ ![ID Holder 18](https://raw.githubusercontent.com/23MAC1R06/FDS/main/images/id_holder_18.PNG)
+
+
   
   * Observation : `The consumption pattern for both the id holder is very different. Id Holder 2 makes too many small transactions. Id Holder 18 has transactions ranging till $1839. Id Holder 2 is more suspectable to fraudulent transactions`
 
@@ -81,7 +84,8 @@ Created a report for fraudulent transactions of some top customers of the firm u
 
   * Using Plotly Express, created a series of six box plots, one for each month, in order to identify how many outliers there are per month for cardholder ID 25.
   
-  ![id_holder_25](Images/id_holder_25.PNG)
+  ![ID Holder 25](https://raw.githubusercontent.com/23MAC1R06/FDS/main/images/id_holder_25.PNG)
+
 
   * Observations : `There seems to be fraudulent transactions pertaining to Restaurant & Food Truck category where Food Truck is ranging from $1.46 to $1046`
 
@@ -92,9 +96,11 @@ Another approach to identify fraudulent transactions is to look for outliers in 
 
 #### Identifying Outliers based on Standard Deviation
 
-![anomalous_transaction](Images/anomalous_transaction.PNG)
+![Anomalous Transaction](https://raw.githubusercontent.com/23MAC1R06/FDS/main/images/anomalous_transaction.PNG)
+
 
 #### Identifying Outliers based on Interquartile Range
 
-![anomalous_transaction](Images/anomalous_transaction.PNG)
+![Anomalous Transaction 2](https://raw.githubusercontent.com/23MAC1R06/FDS/main/images/anomalous_transaction_2.PNG)
+
 
