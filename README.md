@@ -45,10 +45,7 @@ Create an entity relationship diagram (ERD) by inspecting the provided CSV files
 
 Tool used to develop ERD [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) to create your model.
 
-![QuickDBD-export](
-
-![Early_hour](https://github.com/23MAC1R06/FDS/blob/main/images/Early_hour.PNG)
-)
+![QuickDBD-export](https://github.com/23MAC1R06/FDS/blob/main/images/QuickDBD-export.png)
 
 ### Data Engineering
 
@@ -63,7 +60,7 @@ Now that your data is prepared within the database, it's finally time to identif
 
 Top 100 highest transactions during early hours i.e. 7:00 to 9:00 AM
 
-![Early_hour]([Images/Early_hour.PNG](https://github.com/23MAC1R06/FDS/blob/main/images/Early_hour.PNG))
+![Early_hour](https://github.com/23MAC1R06/FDS/blob/main/images/Early_hour.PNG)
 
 * Some fraudsters hack a credit card by making several small payments (generally less than $2.00), which are typically ignored by cardholders. Count the transactions that are less than $2.00 per cardholder. Is there any evidence to suggest that a credit card has been hacked? Explain your rationale.
 
