@@ -45,7 +45,10 @@ Create an entity relationship diagram (ERD) by inspecting the provided CSV files
 
 Tool used to develop ERD [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/) to create your model.
 
-![QuickDBD-export](Images/QuickDBD-export.png)
+![QuickDBD-export](
+
+![Early_hour](https://github.com/23MAC1R06/FDS/blob/main/images/Early_hour.PNG)
+)
 
 ### Data Engineering
 
